@@ -1,0 +1,118 @@
+.nm_table_body a{
+	text-decoration: none;
+}
+
+.nm_table_body h1{
+	padding-left: 20px;
+	font-size: 25px;
+}
+
+.nm_table_body i{
+    font-size: 24px;
+}
+
+.nm_table_body .fa-check{
+    color: #30C14A;
+}
+
+.nm_table_body .fa-times{
+    color: #EC1F00;
+}
+
+.nm_table_body{
+	border: 1px solid #ddd;
+	font-family: arial;
+}
+
+.nm_tbl_th{
+	background:#F7F7F7;
+	padding:1px;
+}
+
+.nm_table{
+	width: 100%;
+	text-align: center;
+}
+
+.nm_tbl_price{
+	font-size: 28px;
+	color: #555555;
+	line-height: 45px;
+}
+
+.nm_tbl_price_title{
+	font-size: 28px;
+	color: #0E0F0E;
+} 
+
+.nm_tbl_des{
+	line-height: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    color: #000;
+}
+
+.nm_tbl_default{
+	line-height: 20px;
+}
+
+.nm_table tr{
+	
+}
+
+.nm_table td{
+	width: 25%;
+	border-right: .3px solid #ddd;
+	border-top: .3px solid #DDDDDD;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.nm_table td:first-child{
+	color: #777777;
+	text-align: left;
+	background: #F7F7F7;
+    border-top: .3px solid #DDDDDD;
+	padding-left: 20px;
+}
+
+.nm_tbl_default{
+	color: #777777;
+}
+
+.nm_tbl_box{
+	padding: 10px;
+    border: .5px solid #DDDDDD;
+    background: transparent;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.nm_tbl_btn{
+	
+	background: #2DC047;
+    color: #fff;
+    padding: 12px 10px;
+    font-weight: bold;
+    border-radius: 3px;
+	transition: .7s;
+}
+
+.nm_tbl_btn:hover{
+	background: #74D031;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
